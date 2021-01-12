@@ -24,7 +24,8 @@ namespace teste02_30_12_20
 
             for (int i = 0; i < N; i++)
             {
-                lucro = ((preco_venda[i] - preco_compra[i]) * 100) / preco_compra[i];
+                double l;
+                l = lucroA(preco_venda[i], preco_compra[i]);
                 if (lucro < 10)
                 {
                     count_abaixode10++;
@@ -51,7 +52,12 @@ namespace teste02_30_12_20
             Console.WriteLine("Valor total de venda: " + soma_venda.ToString("f2", CultureInfo.InvariantCulture));
             Console.WriteLine("Lucro Total: " + lucro_total.ToString("f2", CultureInfo.InvariantCulture));
         }
+        static double lucroA(double p1, double p2)
+        {
+            return ((p1 - p2) * 100) / p2;
+        }
     }
+    
 }
 
 

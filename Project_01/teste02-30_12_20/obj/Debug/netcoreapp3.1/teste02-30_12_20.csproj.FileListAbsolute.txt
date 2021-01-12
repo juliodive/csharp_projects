@@ -11,3 +11,9 @@ C:\Users\Cazini\source\repos\teste02-30_12_20\teste02-30_12_20\obj\Debug\netcore
 C:\Users\Cazini\source\repos\teste02-30_12_20\teste02-30_12_20\obj\Debug\netcoreapp3.1\teste02-30_12_20.dll
 C:\Users\Cazini\source\repos\teste02-30_12_20\teste02-30_12_20\obj\Debug\netcoreapp3.1\teste02-30_12_20.pdb
 C:\Users\Cazini\source\repos\teste02-30_12_20\teste02-30_12_20\obj\Debug\netcoreapp3.1\teste02-30_12_20.genruntimeconfig.cache
+C:\Users\Cazini\Documents\csharp_projects\teste02-30_12_20\obj\Debug\netcoreapp3.1\teste02-30_12_20.csprojAssemblyReference.cache
+C:\Users\Cazini\Documents\csharp_projects\teste02-30_12_20\obj\Debug\netcoreapp3.1\teste02-30_12_20.AssemblyInfoInputs.cache
+C:\Users\Cazini\Documents\csharp_projects\teste02-30_12_20\obj\Debug\netcoreapp3.1\teste02-30_12_20.AssemblyInfo.cs
+C:\Users\Cazini\Documents\csharp_projects\teste02-30_12_20\obj\Debug\netcoreapp3.1\teste02-30_12_20.csproj.CoreCompileInputs.cache
+C:\Users\Cazini\Documents\csharp_projects\teste02-30_12_20\obj\Debug\netcoreapp3.1\teste02-30_12_20.dll
+C:\Users\Cazini\Documents\csharp_projects\teste02-30_12_20\obj\Debug\netcoreapp3.1\teste02-30_12_20.pdb
