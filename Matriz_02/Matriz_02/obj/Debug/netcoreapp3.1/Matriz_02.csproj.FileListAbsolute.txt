@@ -1,0 +1,13 @@
+C:\Users\Cazini\Documents\csharp_projects\Matriz_02\Matriz_02\bin\Debug\netcoreapp3.1\Matriz_02.exe
+C:\Users\Cazini\Documents\csharp_projects\Matriz_02\Matriz_02\bin\Debug\netcoreapp3.1\Matriz_02.deps.json
+C:\Users\Cazini\Documents\csharp_projects\Matriz_02\Matriz_02\bin\Debug\netcoreapp3.1\Matriz_02.runtimeconfig.json
+C:\Users\Cazini\Documents\csharp_projects\Matriz_02\Matriz_02\bin\Debug\netcoreapp3.1\Matriz_02.runtimeconfig.dev.json
+C:\Users\Cazini\Documents\csharp_projects\Matriz_02\Matriz_02\bin\Debug\netcoreapp3.1\Matriz_02.dll
+C:\Users\Cazini\Documents\csharp_projects\Matriz_02\Matriz_02\bin\Debug\netcoreapp3.1\Matriz_02.pdb
+C:\Users\Cazini\Documents\csharp_projects\Matriz_02\Matriz_02\obj\Debug\netcoreapp3.1\Matriz_02.csprojAssemblyReference.cache
+C:\Users\Cazini\Documents\csharp_projects\Matriz_02\Matriz_02\obj\Debug\netcoreapp3.1\Matriz_02.AssemblyInfoInputs.cache
+C:\Users\Cazini\Documents\csharp_projects\Matriz_02\Matriz_02\obj\Debug\netcoreapp3.1\Matriz_02.AssemblyInfo.cs
+C:\Users\Cazini\Documents\csharp_projects\Matriz_02\Matriz_02\obj\Debug\netcoreapp3.1\Matriz_02.csproj.CoreCompileInputs.cache
+C:\Users\Cazini\Documents\csharp_projects\Matriz_02\Matriz_02\obj\Debug\netcoreapp3.1\Matriz_02.dll
+C:\Users\Cazini\Documents\csharp_projects\Matriz_02\Matriz_02\obj\Debug\netcoreapp3.1\Matriz_02.pdb
+C:\Users\Cazini\Documents\csharp_projects\Matriz_02\Matriz_02\obj\Debug\netcoreapp3.1\Matriz_02.genruntimeconfig.cache

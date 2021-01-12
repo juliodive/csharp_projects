@@ -1,0 +1,13 @@
+C:\Users\Cazini\Documents\csharp_projects\Matrix_04\Matrix_04\bin\Debug\netcoreapp3.1\Matrix_04.exe
+C:\Users\Cazini\Documents\csharp_projects\Matrix_04\Matrix_04\bin\Debug\netcoreapp3.1\Matrix_04.deps.json
+C:\Users\Cazini\Documents\csharp_projects\Matrix_04\Matrix_04\bin\Debug\netcoreapp3.1\Matrix_04.runtimeconfig.json
+C:\Users\Cazini\Documents\csharp_projects\Matrix_04\Matrix_04\bin\Debug\netcoreapp3.1\Matrix_04.runtimeconfig.dev.json
+C:\Users\Cazini\Documents\csharp_projects\Matrix_04\Matrix_04\bin\Debug\netcoreapp3.1\Matrix_04.dll
+C:\Users\Cazini\Documents\csharp_projects\Matrix_04\Matrix_04\bin\Debug\netcoreapp3.1\Matrix_04.pdb
+C:\Users\Cazini\Documents\csharp_projects\Matrix_04\Matrix_04\obj\Debug\netcoreapp3.1\Matrix_04.csprojAssemblyReference.cache
+C:\Users\Cazini\Documents\csharp_projects\Matrix_04\Matrix_04\obj\Debug\netcoreapp3.1\Matrix_04.AssemblyInfoInputs.cache
+C:\Users\Cazini\Documents\csharp_projects\Matrix_04\Matrix_04\obj\Debug\netcoreapp3.1\Matrix_04.AssemblyInfo.cs
+C:\Users\Cazini\Documents\csharp_projects\Matrix_04\Matrix_04\obj\Debug\netcoreapp3.1\Matrix_04.csproj.CoreCompileInputs.cache
+C:\Users\Cazini\Documents\csharp_projects\Matrix_04\Matrix_04\obj\Debug\netcoreapp3.1\Matrix_04.dll
+C:\Users\Cazini\Documents\csharp_projects\Matrix_04\Matrix_04\obj\Debug\netcoreapp3.1\Matrix_04.pdb
+C:\Users\Cazini\Documents\csharp_projects\Matrix_04\Matrix_04\obj\Debug\netcoreapp3.1\Matrix_04.genruntimeconfig.cache

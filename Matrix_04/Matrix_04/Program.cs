@@ -1,36 +1,42 @@
 ﻿using System;
 
-namespace Matriz_02
+namespace Matrix_04
 {
     class Program
     {
         static void Main(string[] args)
         {
             int M, N;
+
+            // Dados para criação da Matriz
             string[] entrada = Console.ReadLine().Split(' ');
             M = int.Parse(entrada[0]);
             N = int.Parse(entrada[1]);
+            // Fim
 
             int[,] matrix = new int[M, N];
 
-            for(int i = 0; i < M; i++)
+            // Entrada de valores
+            for (int i = 0; i < M; i++)
             {
                 string[] valores = Console.ReadLine().Split(' ');
-
-                for(int j = 0; j < N; j++)
+                for (int j = 0; j < N; j++)
                 {
                     matrix[i, j] = int.Parse(valores[j]);
                 }
             }
-            for(int i =0; i < M; i++)
+            // Fim
+            Console.WriteLine("Valores Negativos:");
+            for (int i = 0; i < M; i++)
             {
-                for(int j = 0; j < N; j++)
+                for (int j =0; j < N; j++)
                 {
-                    Console.Write(matrix[i,j] + " ");
+                    if (matrix[i,j] < 0)
+                    {
+                        Console.WriteLine(matrix[i, j]);
+                    }
                 }
-                Console.WriteLine();
             }
-            
         }
     }
 }
