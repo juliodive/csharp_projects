@@ -25,15 +25,15 @@ namespace teste02_30_12_20
             for (int i = 0; i < N; i++)
             {
                 lucro = ((preco_venda[i] - preco_compra[i]) * 100) / preco_compra[i];
-                if (lucro < 0.10)
+                if (lucro < 10)
                 {
                     count_abaixode10++;
                 }
-                if (lucro >= 0.10 && lucro <= 0.20)
+                if (lucro >= 10 && lucro <= 20)
                 {
                     count_10e20++;
                 }
-                if(lucro > 0.20)
+                if(lucro > 20)
                 {
                     count_acima20++;
                 }
@@ -44,7 +44,7 @@ namespace teste02_30_12_20
                 soma_venda += preco_venda[i];
                 lucro_total = soma_venda - soma_compra;
             }
-            Console.WriteLine("Lucro abaixo de 10%: " + count_abaixode10);
+            Console.WriteLine("Lucro menor que 10%: " + count_abaixode10);
             Console.WriteLine("Lucro entre 10% e 20%: " + count_10e20);
             Console.WriteLine("Lucro acima de 20%: " + count_acima20);
             Console.WriteLine("Valor total de compra: " + soma_compra.ToString("f2", CultureInfo.InvariantCulture));
