@@ -1,0 +1,13 @@
+C:\Users\Cazini\Documents\csharp_projects\Matriz_01\Matriz_01\Matriz_01\bin\Debug\netcoreapp3.1\Matriz_01.exe
+C:\Users\Cazini\Documents\csharp_projects\Matriz_01\Matriz_01\Matriz_01\bin\Debug\netcoreapp3.1\Matriz_01.deps.json
+C:\Users\Cazini\Documents\csharp_projects\Matriz_01\Matriz_01\Matriz_01\bin\Debug\netcoreapp3.1\Matriz_01.runtimeconfig.json
+C:\Users\Cazini\Documents\csharp_projects\Matriz_01\Matriz_01\Matriz_01\bin\Debug\netcoreapp3.1\Matriz_01.runtimeconfig.dev.json
+C:\Users\Cazini\Documents\csharp_projects\Matriz_01\Matriz_01\Matriz_01\bin\Debug\netcoreapp3.1\Matriz_01.dll
+C:\Users\Cazini\Documents\csharp_projects\Matriz_01\Matriz_01\Matriz_01\bin\Debug\netcoreapp3.1\Matriz_01.pdb
+C:\Users\Cazini\Documents\csharp_projects\Matriz_01\Matriz_01\Matriz_01\obj\Debug\netcoreapp3.1\Matriz_01.csprojAssemblyReference.cache
+C:\Users\Cazini\Documents\csharp_projects\Matriz_01\Matriz_01\Matriz_01\obj\Debug\netcoreapp3.1\Matriz_01.AssemblyInfoInputs.cache
+C:\Users\Cazini\Documents\csharp_projects\Matriz_01\Matriz_01\Matriz_01\obj\Debug\netcoreapp3.1\Matriz_01.AssemblyInfo.cs
+C:\Users\Cazini\Documents\csharp_projects\Matriz_01\Matriz_01\Matriz_01\obj\Debug\netcoreapp3.1\Matriz_01.csproj.CoreCompileInputs.cache
+C:\Users\Cazini\Documents\csharp_projects\Matriz_01\Matriz_01\Matriz_01\obj\Debug\netcoreapp3.1\Matriz_01.dll
+C:\Users\Cazini\Documents\csharp_projects\Matriz_01\Matriz_01\Matriz_01\obj\Debug\netcoreapp3.1\Matriz_01.pdb
+C:\Users\Cazini\Documents\csharp_projects\Matriz_01\Matriz_01\Matriz_01\obj\Debug\netcoreapp3.1\Matriz_01.genruntimeconfig.cache
