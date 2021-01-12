@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Matrix_05
+namespace Matriz_06
 {
     class Program
     {
