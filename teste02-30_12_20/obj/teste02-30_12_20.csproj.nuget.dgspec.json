@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cazini\\source\\repos\\teste02-30_12_20\\teste02-30_12_20\\teste02-30_12_20.csproj": {}
+    "C:\\Users\\Cazini\\Documents\\csharp_projects\\teste02-30_12_20\\teste02-30_12_20.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cazini\\source\\repos\\teste02-30_12_20\\teste02-30_12_20\\teste02-30_12_20.csproj": {
+    "C:\\Users\\Cazini\\Documents\\csharp_projects\\teste02-30_12_20\\teste02-30_12_20.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cazini\\source\\repos\\teste02-30_12_20\\teste02-30_12_20\\teste02-30_12_20.csproj",
+        "projectUniqueName": "C:\\Users\\Cazini\\Documents\\csharp_projects\\teste02-30_12_20\\teste02-30_12_20.csproj",
         "projectName": "teste02-30_12_20",
-        "projectPath": "C:\\Users\\Cazini\\source\\repos\\teste02-30_12_20\\teste02-30_12_20\\teste02-30_12_20.csproj",
+        "projectPath": "C:\\Users\\Cazini\\Documents\\csharp_projects\\teste02-30_12_20\\teste02-30_12_20.csproj",
         "packagesPath": "C:\\Users\\Cazini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cazini\\source\\repos\\teste02-30_12_20\\teste02-30_12_20\\obj\\",
+        "outputPath": "C:\\Users\\Cazini\\Documents\\csharp_projects\\teste02-30_12_20\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cazini\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -46,7 +46,7 @@ namespace teste02_30_12_20
             }
             Console.WriteLine("Lucro menor que 10%: " + count_abaixode10);
             Console.WriteLine("Lucro entre 10% e 20%: " + count_10e20);
-            Console.WriteLine("Lucro acima de 20%: " + count_acima20);
+            Console.WriteLine("Lucro maior que 20%: " + count_acima20);
             Console.WriteLine("Valor total de compra: " + soma_compra.ToString("f2", CultureInfo.InvariantCulture));
             Console.WriteLine("Valor total de venda: " + soma_venda.ToString("f2", CultureInfo.InvariantCulture));
             Console.WriteLine("Lucro Total: " + lucro_total.ToString("f2", CultureInfo.InvariantCulture));
