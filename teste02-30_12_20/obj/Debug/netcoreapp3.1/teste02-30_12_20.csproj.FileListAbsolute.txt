@@ -1,0 +1,13 @@
+C:\Users\Cazini\source\repos\teste02-30_12_20\teste02-30_12_20\bin\Debug\netcoreapp3.1\teste02-30_12_20.exe
+C:\Users\Cazini\source\repos\teste02-30_12_20\teste02-30_12_20\bin\Debug\netcoreapp3.1\teste02-30_12_20.deps.json
+C:\Users\Cazini\source\repos\teste02-30_12_20\teste02-30_12_20\bin\Debug\netcoreapp3.1\teste02-30_12_20.runtimeconfig.json
+C:\Users\Cazini\source\repos\teste02-30_12_20\teste02-30_12_20\bin\Debug\netcoreapp3.1\teste02-30_12_20.runtimeconfig.dev.json
+C:\Users\Cazini\source\repos\teste02-30_12_20\teste02-30_12_20\bin\Debug\netcoreapp3.1\teste02-30_12_20.dll
+C:\Users\Cazini\source\repos\teste02-30_12_20\teste02-30_12_20\bin\Debug\netcoreapp3.1\teste02-30_12_20.pdb
+C:\Users\Cazini\source\repos\teste02-30_12_20\teste02-30_12_20\obj\Debug\netcoreapp3.1\teste02-30_12_20.csprojAssemblyReference.cache
+C:\Users\Cazini\source\repos\teste02-30_12_20\teste02-30_12_20\obj\Debug\netcoreapp3.1\teste02-30_12_20.AssemblyInfoInputs.cache
+C:\Users\Cazini\source\repos\teste02-30_12_20\teste02-30_12_20\obj\Debug\netcoreapp3.1\teste02-30_12_20.AssemblyInfo.cs
+C:\Users\Cazini\source\repos\teste02-30_12_20\teste02-30_12_20\obj\Debug\netcoreapp3.1\teste02-30_12_20.csproj.CoreCompileInputs.cache
+C:\Users\Cazini\source\repos\teste02-30_12_20\teste02-30_12_20\obj\Debug\netcoreapp3.1\teste02-30_12_20.dll
+C:\Users\Cazini\source\repos\teste02-30_12_20\teste02-30_12_20\obj\Debug\netcoreapp3.1\teste02-30_12_20.pdb
+C:\Users\Cazini\source\repos\teste02-30_12_20\teste02-30_12_20\obj\Debug\netcoreapp3.1\teste02-30_12_20.genruntimeconfig.cache
