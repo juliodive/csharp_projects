@@ -1,0 +1,13 @@
+C:\Users\Cazini\Documents\csharp_projects\Exer04-class\Exer04-class\bin\Debug\netcoreapp3.1\Exer04-class.exe
+C:\Users\Cazini\Documents\csharp_projects\Exer04-class\Exer04-class\bin\Debug\netcoreapp3.1\Exer04-class.deps.json
+C:\Users\Cazini\Documents\csharp_projects\Exer04-class\Exer04-class\bin\Debug\netcoreapp3.1\Exer04-class.runtimeconfig.json
+C:\Users\Cazini\Documents\csharp_projects\Exer04-class\Exer04-class\bin\Debug\netcoreapp3.1\Exer04-class.runtimeconfig.dev.json
+C:\Users\Cazini\Documents\csharp_projects\Exer04-class\Exer04-class\bin\Debug\netcoreapp3.1\Exer04-class.dll
+C:\Users\Cazini\Documents\csharp_projects\Exer04-class\Exer04-class\bin\Debug\netcoreapp3.1\Exer04-class.pdb
+C:\Users\Cazini\Documents\csharp_projects\Exer04-class\Exer04-class\obj\Debug\netcoreapp3.1\Exer04-class.csprojAssemblyReference.cache
+C:\Users\Cazini\Documents\csharp_projects\Exer04-class\Exer04-class\obj\Debug\netcoreapp3.1\Exer04-class.AssemblyInfoInputs.cache
+C:\Users\Cazini\Documents\csharp_projects\Exer04-class\Exer04-class\obj\Debug\netcoreapp3.1\Exer04-class.AssemblyInfo.cs
+C:\Users\Cazini\Documents\csharp_projects\Exer04-class\Exer04-class\obj\Debug\netcoreapp3.1\Exer04-class.csproj.CoreCompileInputs.cache
+C:\Users\Cazini\Documents\csharp_projects\Exer04-class\Exer04-class\obj\Debug\netcoreapp3.1\Exer04-class.dll
+C:\Users\Cazini\Documents\csharp_projects\Exer04-class\Exer04-class\obj\Debug\netcoreapp3.1\Exer04-class.pdb
+C:\Users\Cazini\Documents\csharp_projects\Exer04-class\Exer04-class\obj\Debug\netcoreapp3.1\Exer04-class.genruntimeconfig.cache
