@@ -1,0 +1,13 @@
+C:\Users\Cazini\source\repos\Exer02-class\Exer02-class\bin\Debug\netcoreapp3.1\Exer02-class.exe
+C:\Users\Cazini\source\repos\Exer02-class\Exer02-class\bin\Debug\netcoreapp3.1\Exer02-class.deps.json
+C:\Users\Cazini\source\repos\Exer02-class\Exer02-class\bin\Debug\netcoreapp3.1\Exer02-class.runtimeconfig.json
+C:\Users\Cazini\source\repos\Exer02-class\Exer02-class\bin\Debug\netcoreapp3.1\Exer02-class.runtimeconfig.dev.json
+C:\Users\Cazini\source\repos\Exer02-class\Exer02-class\bin\Debug\netcoreapp3.1\Exer02-class.dll
+C:\Users\Cazini\source\repos\Exer02-class\Exer02-class\bin\Debug\netcoreapp3.1\Exer02-class.pdb
+C:\Users\Cazini\source\repos\Exer02-class\Exer02-class\obj\Debug\netcoreapp3.1\Exer02-class.csprojAssemblyReference.cache
+C:\Users\Cazini\source\repos\Exer02-class\Exer02-class\obj\Debug\netcoreapp3.1\Exer02-class.AssemblyInfoInputs.cache
+C:\Users\Cazini\source\repos\Exer02-class\Exer02-class\obj\Debug\netcoreapp3.1\Exer02-class.AssemblyInfo.cs
+C:\Users\Cazini\source\repos\Exer02-class\Exer02-class\obj\Debug\netcoreapp3.1\Exer02-class.csproj.CoreCompileInputs.cache
+C:\Users\Cazini\source\repos\Exer02-class\Exer02-class\obj\Debug\netcoreapp3.1\Exer02-class.dll
+C:\Users\Cazini\source\repos\Exer02-class\Exer02-class\obj\Debug\netcoreapp3.1\Exer02-class.pdb
+C:\Users\Cazini\source\repos\Exer02-class\Exer02-class\obj\Debug\netcoreapp3.1\Exer02-class.genruntimeconfig.cache
