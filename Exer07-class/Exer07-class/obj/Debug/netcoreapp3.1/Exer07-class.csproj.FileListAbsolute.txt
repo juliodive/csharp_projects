@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\csharp_projects\Exer07-class\Exer07-class\bin\Debug\netcoreapp3.1\Exer07-class.exe
+C:\Users\Usuario\Documents\csharp_projects\Exer07-class\Exer07-class\bin\Debug\netcoreapp3.1\Exer07-class.deps.json
+C:\Users\Usuario\Documents\csharp_projects\Exer07-class\Exer07-class\bin\Debug\netcoreapp3.1\Exer07-class.runtimeconfig.json
+C:\Users\Usuario\Documents\csharp_projects\Exer07-class\Exer07-class\bin\Debug\netcoreapp3.1\Exer07-class.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\csharp_projects\Exer07-class\Exer07-class\bin\Debug\netcoreapp3.1\Exer07-class.dll
+C:\Users\Usuario\Documents\csharp_projects\Exer07-class\Exer07-class\bin\Debug\netcoreapp3.1\Exer07-class.pdb
+C:\Users\Usuario\Documents\csharp_projects\Exer07-class\Exer07-class\obj\Debug\netcoreapp3.1\Exer07-class.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\csharp_projects\Exer07-class\Exer07-class\obj\Debug\netcoreapp3.1\Exer07-class.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\csharp_projects\Exer07-class\Exer07-class\obj\Debug\netcoreapp3.1\Exer07-class.AssemblyInfo.cs
+C:\Users\Usuario\Documents\csharp_projects\Exer07-class\Exer07-class\obj\Debug\netcoreapp3.1\Exer07-class.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\csharp_projects\Exer07-class\Exer07-class\obj\Debug\netcoreapp3.1\Exer07-class.dll
+C:\Users\Usuario\Documents\csharp_projects\Exer07-class\Exer07-class\obj\Debug\netcoreapp3.1\Exer07-class.pdb
+C:\Users\Usuario\Documents\csharp_projects\Exer07-class\Exer07-class\obj\Debug\netcoreapp3.1\Exer07-class.genruntimeconfig.cache
