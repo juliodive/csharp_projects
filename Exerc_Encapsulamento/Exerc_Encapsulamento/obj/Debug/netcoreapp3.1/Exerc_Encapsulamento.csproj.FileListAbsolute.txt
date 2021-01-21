@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\csharp_projects\Exerc_Encapsulamento\Exerc_Encapsulamento\bin\Debug\netcoreapp3.1\Exerc_Encapsulamento.exe
+C:\Users\Usuario\Documents\csharp_projects\Exerc_Encapsulamento\Exerc_Encapsulamento\bin\Debug\netcoreapp3.1\Exerc_Encapsulamento.deps.json
+C:\Users\Usuario\Documents\csharp_projects\Exerc_Encapsulamento\Exerc_Encapsulamento\bin\Debug\netcoreapp3.1\Exerc_Encapsulamento.runtimeconfig.json
+C:\Users\Usuario\Documents\csharp_projects\Exerc_Encapsulamento\Exerc_Encapsulamento\bin\Debug\netcoreapp3.1\Exerc_Encapsulamento.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\csharp_projects\Exerc_Encapsulamento\Exerc_Encapsulamento\bin\Debug\netcoreapp3.1\Exerc_Encapsulamento.dll
+C:\Users\Usuario\Documents\csharp_projects\Exerc_Encapsulamento\Exerc_Encapsulamento\bin\Debug\netcoreapp3.1\Exerc_Encapsulamento.pdb
+C:\Users\Usuario\Documents\csharp_projects\Exerc_Encapsulamento\Exerc_Encapsulamento\obj\Debug\netcoreapp3.1\Exerc_Encapsulamento.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\csharp_projects\Exerc_Encapsulamento\Exerc_Encapsulamento\obj\Debug\netcoreapp3.1\Exerc_Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\csharp_projects\Exerc_Encapsulamento\Exerc_Encapsulamento\obj\Debug\netcoreapp3.1\Exerc_Encapsulamento.AssemblyInfo.cs
+C:\Users\Usuario\Documents\csharp_projects\Exerc_Encapsulamento\Exerc_Encapsulamento\obj\Debug\netcoreapp3.1\Exerc_Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\csharp_projects\Exerc_Encapsulamento\Exerc_Encapsulamento\obj\Debug\netcoreapp3.1\Exerc_Encapsulamento.dll
+C:\Users\Usuario\Documents\csharp_projects\Exerc_Encapsulamento\Exerc_Encapsulamento\obj\Debug\netcoreapp3.1\Exerc_Encapsulamento.pdb
+C:\Users\Usuario\Documents\csharp_projects\Exerc_Encapsulamento\Exerc_Encapsulamento\obj\Debug\netcoreapp3.1\Exerc_Encapsulamento.genruntimeconfig.cache
