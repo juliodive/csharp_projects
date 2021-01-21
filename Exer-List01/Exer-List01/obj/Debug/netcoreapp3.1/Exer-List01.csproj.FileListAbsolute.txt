@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\csharp_projects\Exer-List01\Exer-List01\bin\Debug\netcoreapp3.1\Exer-List01.exe
+C:\Users\Usuario\Documents\csharp_projects\Exer-List01\Exer-List01\bin\Debug\netcoreapp3.1\Exer-List01.deps.json
+C:\Users\Usuario\Documents\csharp_projects\Exer-List01\Exer-List01\bin\Debug\netcoreapp3.1\Exer-List01.runtimeconfig.json
+C:\Users\Usuario\Documents\csharp_projects\Exer-List01\Exer-List01\bin\Debug\netcoreapp3.1\Exer-List01.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\csharp_projects\Exer-List01\Exer-List01\bin\Debug\netcoreapp3.1\Exer-List01.dll
+C:\Users\Usuario\Documents\csharp_projects\Exer-List01\Exer-List01\bin\Debug\netcoreapp3.1\Exer-List01.pdb
+C:\Users\Usuario\Documents\csharp_projects\Exer-List01\Exer-List01\obj\Debug\netcoreapp3.1\Exer-List01.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\csharp_projects\Exer-List01\Exer-List01\obj\Debug\netcoreapp3.1\Exer-List01.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\csharp_projects\Exer-List01\Exer-List01\obj\Debug\netcoreapp3.1\Exer-List01.AssemblyInfo.cs
+C:\Users\Usuario\Documents\csharp_projects\Exer-List01\Exer-List01\obj\Debug\netcoreapp3.1\Exer-List01.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\csharp_projects\Exer-List01\Exer-List01\obj\Debug\netcoreapp3.1\Exer-List01.dll
+C:\Users\Usuario\Documents\csharp_projects\Exer-List01\Exer-List01\obj\Debug\netcoreapp3.1\Exer-List01.pdb
+C:\Users\Usuario\Documents\csharp_projects\Exer-List01\Exer-List01\obj\Debug\netcoreapp3.1\Exer-List01.genruntimeconfig.cache
